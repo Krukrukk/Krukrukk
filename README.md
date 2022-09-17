@@ -5,11 +5,11 @@
   </p>
 
 I am a mathematician with a passion for programming and implementing AI-based solutions into everyday life. My work experience consists of working for a year and a half as  Data Scientist and creating projects based on Python programming language for over five years. I am seeking a job for which my current skills will be useful and through which I will be able to further develop in the field of artificial intelligence.
-
+## Stats for a statistician
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Krukrukk&show_icons=true&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Krukrukk&show_icons=true&theme=dracula"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krukrukk&layout=compact&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krukrukk&layout=compact&theme=dracula"/>
 </div>
 
 ## Languages and Tools:
