@@ -1,14 +1,137 @@
-### Hi, I'm Maciek Małecki 👋 &nbsp; <p align="center">
-[![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/m--malecki/)
-[![Visits](https://komarev.com/ghpvc/?username=Krukrukk&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/Krukrukk)
+# Hello Fellow < Engineer/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
+<p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Hi,+I'm+Maciek👋+I'm+a+Data+Scientist;Welcome+to+my+GitHub+Profile!;" />
+  </a>
 </p>
 <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Data+Scientist;" /></a>
+<a href="https://www.linkedin.com/in/m--malecki/" target="_blank">
+  <img alt="Python" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a> 
 </p>
+
+<!--   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]
+    [![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)] -->
+
+## About me:
+
 I am a mathematician with a passion for programming and implementing AI-based solutions into everyday life. My work experience consists of working for a year and a half as  Data Scientist and creating projects based on Python programming language for over five years. I am seeking a job for which my current skills will be useful and through which I will be able to further develop in the field of artificial intelligence.
 
 ## Languages and Tools:
-<div style="display: inline_block"><br>
+<!-- 
+<a target="_blank">
+  <img alt="" src="">
+</a>  
+-->
+#### Programing Languages:
+<p>
+  <a>
+    <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  </a> 
+  <a>
+    <img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white">
+  </a> 
+  <a href="https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16" target="_blank">
+    <img alt="MS SQL" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+  </a>
+  <a>
+    <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+  </a>  
+  <a>
+    <img alt="LaTeX" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white">
+  </a>  
+  <a href="https://www.docker.com/">
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
+  </a>
+</p>
+
+#### Machine Learning & Deep Learning:
+<p>
+  <a target="_blank">
+    <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
+  </a> 
+  <a target="_blank">
+    <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
+  </a>  
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img alt="Scikit" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  </a>
+  <a href="https://opencv.org/" target="_blank">
+    <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white">
+  </a>
+</p>  
+
+  
+#### Data Analysis/Manipulation:
+<a href="https://numpy.org/" target="_blank">
+    <img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
+  </a>
+
+   <a href="https://pandas.pydata.org/" target="_blank">
+    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
+  </a>
+  
+#### Visualisations & Reporting:
+<p>
+  <a href="https://plotly.com/" target="_blank">
+    <img alt="Plotly" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white">
+  </a>
+  <a target="_blank">
+    <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23#ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=white">
+  </a>  
+  <a target="_blank">
+    <img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
+  </a>    
+</p>
+  
+#### App & Dash:
+<p>
+  <a href="https://streamlit.io/" target="_blank">
+    <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white">
+  </a>
+  <a href="https://www.heroku.com/">
+    <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+  </a>
+  <a target="_blank">
+    <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>    
+  <a target="_blank">
+    <img alt="MLFlow" src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue">
+  </a>  
+</p>
+  
+#### Tools:
+<p>
+  <a href="https://jupyter.org/" target="_blank">
+    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
+  </a>
+  <a target="_blank">
+    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  </a>   
+  <a target="_blank">
+    <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white">
+  </a>  
+  <a target="_blank">
+    <img alt="Jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
+  </a>    
+</p>
+
+####  Operating Systems:
+<p> 
+  <a target="_blank">
+    <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+  </a>  
+  <a target="_blank">
+    <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+  </a>  
+</p>
+  
+
+  
+
+
+
+<!-- <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-R" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
   <img align="center" alt="Rafa-Latex" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg">
@@ -17,16 +140,26 @@ I am a mathematician with a passion for programming and implementing AI-based so
   <img align="center" alt="Rafa-Jupyter" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg">
   <img align="center" alt="Rafa-Windows" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
   <img align="center" alt="Rafa-Ubuntu" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
-</div>
+</div> -->
 
 ## Github Stats (Expand to View) <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
 <details> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Krukrukk&show_icons=true&theme=dracula"/>
-    
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krukrukk&layout=compact&theme=dracula"/>
+    <a>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Krukrukk&show_icons=true&theme=dracula"/>
+    </a>  
+  </p>
+  <p align="center">
+    <a>
+      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krukrukk&layout=compact&theme=dracula"/>
+    </a>
+  </p>
+  <p align="center">  
+    <a href="https://github.com/Krukrukk" target="_blank">
+      <img alt="Visits" src="https://komarev.com/ghpvc/?username=Krukrukk&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square">
+    </a>
   </p>
 </details>
 
