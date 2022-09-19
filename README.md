@@ -12,18 +12,21 @@
 
 <!--   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]
     [![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)] -->
-
-## About me:
+<details> <summary><h2> ✨ About me ✨ </h2></summary> 
 
 I am a mathematician with a passion for programming and implementing AI-based solutions into everyday life. My work experience consists of working for a year and a half as  Data Scientist and creating projects based on Python programming language for over five years. I am seeking a job for which my current skills will be useful and through which I will be able to further develop in the field of artificial intelligence.
 
-## Languages and Tools:
+</details>  
+  
+<details> <summary><h2> 🛠️ Languages and Tools 🛠️ </h2></summary> 
 <!-- 
 <a target="_blank">
   <img alt="" src="">
 </a>  
 -->
+  
 #### Programing Languages:
+  
 <p>
   <a>
     <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
@@ -46,6 +49,7 @@ I am a mathematician with a passion for programming and implementing AI-based so
 </p>
 
 #### Machine Learning & Deep Learning:
+  
 <p>
   <a target="_blank">
     <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
@@ -59,6 +63,12 @@ I am a mathematician with a passion for programming and implementing AI-based so
   <a href="https://opencv.org/" target="_blank">
     <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white">
   </a>
+  <a target="_blank">
+    <img alt="MLFlow" src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue">
+  </a>  
+  <a target="_blank">
+    <img alt="DVC" src="https://img.shields.io/badge/dvc-13ADC7.svg?style=for-the-badge&logo=DVC&logoColor=white">
+  </a> 
 </p>  
 
   
@@ -74,10 +84,13 @@ I am a mathematician with a passion for programming and implementing AI-based so
 #### Visualisations & Reporting:
 <p>
   <a href="https://plotly.com/" target="_blank">
-    <img alt="Plotly" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white">
+    <img alt="Plotly" src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white">
   </a>
   <a target="_blank">
-    <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23#ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=white">
+    <img alt="GGplot" src="https://img.shields.io/badge/ggplot-%23d9ead3.svg?style=for-the-badge&logo=Chart.js&logoColor=blue">
+  </a>  
+  <a target="_blank">
+    <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-40228c.svg?style=for-the-badge&logo=LineageOS&logoColor=white">
   </a>  
   <a target="_blank">
     <img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
@@ -95,9 +108,6 @@ I am a mathematician with a passion for programming and implementing AI-based so
   <a target="_blank">
     <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
   </a>    
-  <a target="_blank">
-    <img alt="MLFlow" src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue">
-  </a>  
 </p>
   
 #### Tools:
@@ -126,7 +136,7 @@ I am a mathematician with a passion for programming and implementing AI-based so
   </a>  
 </p>
   
-
+</details> 
   
 
 
@@ -141,10 +151,8 @@ I am a mathematician with a passion for programming and implementing AI-based so
   <img align="center" alt="Rafa-Windows" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
   <img align="center" alt="Rafa-Ubuntu" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
 </div> -->
-
-## Github Stats (Expand to View) <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
+<details> <summary>
+<h2> <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2></summary>
   <br/>
   <p align="center">
     <a>
@@ -163,25 +171,33 @@ I am a mathematician with a passion for programming and implementing AI-based so
   </p>
 </details>
 
-<!-- ## Project example:
-<details><summary>Does not work</summary>
-[hi](https://hello.ca)
-</details>
+<!-- <details>   #TODO - convert private project to public
+  <summary> <h2> 🌟 Popular Projects 🌟  </h2> </summary>
+  <a href="https://github.com/Krukrukk/{name_of_project}">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Krukrukk&repo={name_of_project}&theme=dracula" />
+</a> 
+</details>  -->
 
 
-<details><summary>Does work</summary>
-
-[hi](https://hello.ca)
-
-</details> -->
-
-## Spotify Playing
+<details> 
+  <summary> <h2> 🎶 Spotify Playing 🎶 </h2> </summary>
 <table width="100%"> 
-
-&nbsp; <br>  [![Spotify](https://novatorem-krukrukk.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/76098cfc0e8d4d858d7acd96e75641a0)
-
+ <tr>
+  <td width="50%">
+    
+  &nbsp; <br>  [![Spotify](https://novatorem-krukrukk.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/76098cfc0e8d4d858d7acd96e75641a0)
+</td>
+  <td width="50%">
+    <p align="center">   
+      If you are comfortable with music on your ears and and you like fantasy music then I recommend you my playlist:
+    </p> 
+    <br>
+    <p align="center"> 
+      <a href="https://open.spotify.com/playlist/17yld6VQsHhGj7I214kei1" target="_blank">
+        <img alt="Windows" src="https://img.shields.io/badge/Spotify_Playlist_'RPG_Ambiance_Fantasy_🌳_⚔️'-1DB954?style=for-the-badge&logo=Spotify&logoColor=white">
+      </a>  
 </table>
 
- 
+</details> 
 
 
