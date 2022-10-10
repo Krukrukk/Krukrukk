@@ -12,13 +12,38 @@
 
 <!--   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]
     [![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)] -->
-<details> <summary><h2> ✨ About me ✨ </h2></summary> 
+<h2> ✨ About me ✨ </h2>
 
 I am a mathematician with a passion for programming and implementing AI-based solutions into everyday life. My work experience consists of working for a year and a half as  Data Scientist and creating projects based on Python programming language for over five years. I am seeking a job for which my current skills will be useful and through which I will be able to further develop in the field of artificial intelligence.
-
-</details>  
   
-<details> <summary><h2> 🛠️ Languages and Tools 🛠️ </h2></summary> 
+<details> 
+  <summary><h2> 🌟 Popular Projects 🌟  </h2> </summary>
+
+🌟 "Art2Sound" - algotyrm for automatically generating soundtrack music for images based on the emotions conveyed by the image. The result of work on a master's thesis: "Generating musical setting for a selected image". Description of the project will appear soon ;)
+
+Tags:  Python, GAN, Pix2Pix, CNN, Mel-Spectrogram, MIDI
+
+🌟 "Music Gameration" - Generating background music based on emotions for the production of game and movie productions.
+Link to project website: https://music-gameration.herokuapp.com
+
+Tags: Python, PyTorch Lightning, MusicTransformer, MIDI, WebScraping, Heroku
+
+🌟 "#SzczepimySię - zwolennicy i przeciwnicy". - Detection of public sentiment related to vaccination. The project aimed to increase citizens' awareness of the actual opinion of the population about COVID-19 vaccination and what caused the most controversy among supporters and opponents. 
+<a href="https://drive.google.com/file/d/1RSXEiQejyD0g9Vlsus2DEphEsn3PUAHf/view?usp=sharing">Link to poster</a>
+
+Tags: Python, tweepy, HerBERT, XGBoost, GeoPandas
+
+🌟 "Spot your taste" - A new system for recommending music on Spotify based on the relationship of songs to each other on the basis of occurrence in playlists.
+
+Tags: Python, spotipy, KNN, streamlit, pandas, Azure
+
+
+... and much more :) If you are curious about my work then feel free to contact me, I will be more than happy to tell you more about myself :)  
+  
+</details>
+  
+<details> 
+  <summary><h2> 🛠️ Languages and Tools 🛠️ </h2></summary>
 <!-- 
 <a target="_blank">
   <img alt="" src="">
@@ -136,7 +161,7 @@ I am a mathematician with a passion for programming and implementing AI-based so
   </a>  
 </p>
   
-</details> 
+
   
 
 
@@ -151,6 +176,9 @@ I am a mathematician with a passion for programming and implementing AI-based so
   <img align="center" alt="Rafa-Windows" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
   <img align="center" alt="Rafa-Ubuntu" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
 </div> -->
+
+</details>
+
 <details> <summary>
 <h2> <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2></summary>
   <br/>
