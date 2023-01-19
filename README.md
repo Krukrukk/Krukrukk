@@ -16,9 +16,13 @@
 
 I am a mathematician with a passion for programming and implementing AI-based solutions into everyday life. My work experience consists of working as a Data Scientist for a year and a half and developing projects based on the Python programming language for over five years. I am looking for a job where my current skills will be useful and where I can further develop in the field of Artificial Intelligence.
 
-🔭 I am currently working on my personal project on detecting plastic bottles and counting how many there were, using a webcam.
+👩‍💻 I am currently working as a Mid Data Scientist at 3Soft S.A./Occubee Platform
 
-🌱 I am currently learning Azure Databricks and object detection.
+🔭 I am currently working on my 2 personal projects:
+    - detecting plastic bottles and counting how many there were, using a webcam;
+    - Art2Sound (description below).
+
+🌱 I am currently learning Azure Databricks, Time Series Forecasting, object detection.
 
   
 <details> 
