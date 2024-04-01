@@ -14,15 +14,15 @@
     [![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)] -->
 <h2> ✨ About me ✨ </h2>
 
-I am a mathematician with a passion for programming and implementing AI-based solutions into everyday life. My work experience consists of working as a Data Scientist for a year and a half and developing projects based on the Python programming language for over five years. I am looking for a job where my current skills will be useful and where I can further develop in the field of Artificial Intelligence.
+I am a Data Scientist with 3 years of experience specializing in data analysis and modeling across diverse domains. Holding master's degrees in Applied Mathematics and Artificial Intelligence, I bring a strong theoretical foundation to my work. Skilled in Python since 2017, I leverage its versatility and powerful libraries for data processing, analysis, and visualization. I am driven by creativity, analytical thinking, and a relentless commitment to continuous learning.
 
 👩‍💻 I am currently working as a Mid Data Scientist at 3Soft S.A./Occubee Platform
 
 🔭 I am currently working on my 2 personal projects:
-    - detecting plastic bottles and counting how many there were, using a webcam;
+    - assistant to assist in programming using LLM;
     - Art2Sound (description below).
 
-🌱 I am currently learning Azure Databricks, Time Series Forecasting, object detection.
+🌱 I am currently learning Azure Databricks, Time Series Forecasting, LLM.
 
   
 <details> 
